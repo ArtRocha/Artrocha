@@ -13,11 +13,18 @@
 
 ###
 
-<h3 align="left">👩‍💻  Sobre mim</h3>
+<h3 align="left">👩‍💻  About me</h3>
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">
+I'm a Machine Learning Engineer and AI Researcher from Brazil, specializing in computer vision, deep learning, and LLM-driven automation for scientific and data-intensive applications.<br><br>
+- 🔭 I’m currently building end-to-end ML pipelines in Python, covering data preprocessing, segmentation, 3D image analysis, and scalable deployment with Docker and object storage.<br>
+- 📚 I'm actively advancing my expertise in large language models (LLMs), RAG architectures, and AI systems for automated document understanding and evaluation.<br>
+- ⚡ In my free time I push experimental ML models to production-grade pipelines, benchmark architectures, and explore cutting-edge AI techniques applied to real-world research problems.
+</p>
+
+
 
 ###
 
